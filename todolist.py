@@ -67,6 +67,8 @@ def main():
         6. Quitter
         
         Choisissez une option:
+        
+        98 12 10 54 402 45 128 92 65
     """
     
     taches = charger_taches("taches.txt")
